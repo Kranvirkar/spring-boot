@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: ranvi
+Build-Jdk: 16.0.2
+Implementation-Title: Spring Boot Web Spring Security
+Implementation-Version: 1.0
+Implementation-Vendor-Id: org.springframework.boot
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: https://www.mkyong.com
+Created-By: Maven Integration for Eclipse
+

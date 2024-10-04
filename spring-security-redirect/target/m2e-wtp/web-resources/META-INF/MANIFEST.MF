@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: ranvi
+Build-Jdk: 16.0.2
+Implementation-Title: spring-security-redirect
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.developerstack
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: spring-boot-example.Application
+Created-By: Maven Integration for Eclipse
+
